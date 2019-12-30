@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FreeMusicForYou</string>
+    <string name="Download">Загрузки</string>
+    <string name="Info">Инфо</string>
+    <string name="Settings">Настойки</string>
+    <string name="Play_List">Плэй листы</string>
+</resources>

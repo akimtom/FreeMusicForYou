@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FreeMusicForYou</string>
+    <string name="Download">Download</string>
+    <string name="Info">Info</string>
+    <string name="Play_List">Play List</string>
+    <string name="Settings">Settings</string>
+</resources>
